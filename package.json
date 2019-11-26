@@ -1,0 +1,28 @@
+{
+  "name": "helenacutedeviceinfo",
+  "version": "1.0.0",
+  "description": "GurumeDeviceInfoForHelena",
+  "main": "helenaCuteCute/index.js",
+  "scripts": {
+    "test": "helenaCuteCute",
+    "tsc" : "tsc -w",
+    "helena_cute" : "node ./helenaCuteCute/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/search27/helenaCuteDeviceInfo.git"
+  },
+  "keywords": [
+    "cuteGirl"
+  ],
+  "author": "RRR - rxdrive",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/search27/helenaCuteDeviceInfo/issues"
+  },
+  "homepage": "https://github.com/search27/helenaCuteDeviceInfo#readme",
+  "dependencies": {
+    "tslint": "^5.20.1",
+    "typescript": "^3.7.2"
+  }
+}

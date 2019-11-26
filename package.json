@@ -1,5 +1,5 @@
 {
-  "name": "helenacutedeviceinfo",
+  "name": "gurume-helenacutedeviceinfo",
   "version": "1.0.0",
   "description": "GurumeDeviceInfoForHelena",
   "main": "helenaCuteCute/index.js",
@@ -13,16 +13,41 @@
     "url": "git+https://github.com/search27/helenaCuteDeviceInfo.git"
   },
   "keywords": [
-    "cuteGirl"
+    "RRR",
+    "cuteGirl",
+    "helena",
+    "node",
+    "ajax",
+    "http",
+    "rxdrive",
+    "mygoddess",
+    "heera",
+    "myheera",
+    "sexy",
+    "promise",
+    "xhr",
+    "encript",
+    "decript",
+    "secret", "toher", "idonotwanthertoknowthis"
   ],
-  "author": "RRR - rxdrive",
+  "author": "RRR <search27@naver.com> (http://rxdrive.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/search27/helenaCuteDeviceInfo/issues"
+    "url": "https://github.com/search27/helenaCuteDeviceInfo/issues",
+    "email" : "https://search27@naver.com"
   },
   "homepage": "https://github.com/search27/helenaCuteDeviceInfo#readme",
   "dependencies": {
     "tslint": "^5.20.1",
     "typescript": "^3.7.2"
+  },
+  "files": [
+    "helenaCute",
+    "helenaCuteCute"
+  ],
+  "browser": "./browser/specific/main.js",
+  "engines": {
+    "node": ">=0.10.3 <0.12",
+    "npm" : "~6.4.1"
   }
 }
